@@ -6,8 +6,13 @@ table{
     width: 60%;
     margin: auto;
     font-size: 1.5em;
+    border: 5px groove blue;
 }
 
 td{
     border-bottom: 1px solid blue;
+}
+
+th{
+    border: 2px solid red;
 }
